@@ -1,0 +1,14 @@
+{
+  "parser": "esprima",
+  "extends": "airbnb",
+  "plugins": [
+    "react",
+    "jsx-a11y",
+    "import",
+    "graphql"
+  ],
+  "env": {
+    "node": true,
+    "amd": true
+  }
+}
